@@ -1,0 +1,1 @@
+nasm -f bin debug.asm -o debug.bin
