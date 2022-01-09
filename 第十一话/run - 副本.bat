@@ -1,0 +1,1 @@
+nasm -f bin mov.asm -o mov.bin
