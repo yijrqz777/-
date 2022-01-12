@@ -2,7 +2,7 @@ start git add .
 
 choice /t 1 /d y /n >nul
 
-start git commit -m "µÚËÄ´Î²âÊÔ"
+start git commit -m "?????"
 
 choice /t 1 /d y /n >nul
 
